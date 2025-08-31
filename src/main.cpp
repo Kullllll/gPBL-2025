@@ -10,7 +10,7 @@
 const char* ssid = "Kul";
 const char* password = "244466666";
 
-String Web_App_URL = "https://script.google.com/macros/s/AKfycbwLYWU6wzHNIlMgLh2S9H3HH_lSeQiBe7j25unBDRIYhxql6CQq2NP245bkvcAbcAad/exec";
+String Web_App_URL = "https://script.google.com/macros/s/AKfycbzY7Sh1tyPIUKlIbh0WNzVxI8wXewMoh8Re6hxALSW-kFgk6XxFhOFdKh_k5rMT08LZ/exec";
 
 DHT dht(DHTPIN, DHTTYPE);
 
